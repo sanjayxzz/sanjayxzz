@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Sanjay Kumar!
 
-<!--
-**sanjayxzz/sanjayxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**
+- 🎯 Mission: Code Beyond Limits.
+- 🌍 Based in: Bengaluru, India.
+- 🧑‍💻 Currently Learning: Web Development at neoG Camp.
+- 🌱 Interests: Traveling, Open Source, and Building Cool Projects.
 
-Here are some ideas to get you started:
+🚀 **Skills:**
+![HTML]
+![CSS]
+![JavaScript]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with Me:**
+- [LinkedIn]
+- [YouTube]
+- [Portfolio]
+
+⚡ **Stats:**
+![GitHub Stats]
