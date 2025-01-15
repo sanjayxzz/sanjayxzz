@@ -34,5 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayxzz&show_icons=true&locale=en" alt="sanjayxzz" /></p>
 
-<p><img align="center" src="profile-pic (5).png" alt="sanjayxzz" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/sanjayxzz/logo/2de09b2c876d7d56a37c0b8abca753d9c5c8b48a/profile-pic%20(5).png" alt="sanjayxzz" /></p>
+
 
